@@ -1,0 +1,1 @@
+[MESSAGES CONTROL]\ndisable=C0114, C0115, C0116, R0201, W0107\nmax-line-length=120\n

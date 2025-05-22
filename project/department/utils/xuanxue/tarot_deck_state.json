@@ -1,0 +1,395 @@
+{
+  "deck_state": [
+    {
+      "card_id": "CN",
+      "is_operationally_reversed": true,
+      "is_drawn_in_session": true
+    },
+    {
+      "card_id": "W02",
+      "is_operationally_reversed": true,
+      "is_drawn_in_session": true
+    },
+    {
+      "card_id": "S06",
+      "is_operationally_reversed": false,
+      "is_drawn_in_session": true
+    },
+    {
+      "card_id": "S10",
+      "is_operationally_reversed": true,
+      "is_drawn_in_session": true
+    },
+    {
+      "card_id": "P04",
+      "is_operationally_reversed": true,
+      "is_drawn_in_session": false
+    },
+    {
+      "card_id": "C09",
+      "is_operationally_reversed": false,
+      "is_drawn_in_session": false
+    },
+    {
+      "card_id": "PP",
+      "is_operationally_reversed": false,
+      "is_drawn_in_session": false
+    },
+    {
+      "card_id": "SK",
+      "is_operationally_reversed": true,
+      "is_drawn_in_session": false
+    },
+    {
+      "card_id": "C10",
+      "is_operationally_reversed": false,
+      "is_drawn_in_session": false
+    },
+    {
+      "card_id": "MA21",
+      "is_operationally_reversed": false,
+      "is_drawn_in_session": false
+    },
+    {
+      "card_id": "CK",
+      "is_operationally_reversed": true,
+      "is_drawn_in_session": false
+    },
+    {
+      "card_id": "WN",
+      "is_operationally_reversed": true,
+      "is_drawn_in_session": false
+    },
+    {
+      "card_id": "MA15",
+      "is_operationally_reversed": true,
+      "is_drawn_in_session": false
+    },
+    {
+      "card_id": "C03",
+      "is_operationally_reversed": true,
+      "is_drawn_in_session": true
+    },
+    {
+      "card_id": "CP",
+      "is_operationally_reversed": true,
+      "is_drawn_in_session": false
+    },
+    {
+      "card_id": "MA13",
+      "is_operationally_reversed": true,
+      "is_drawn_in_session": false
+    },
+    {
+      "card_id": "P10",
+      "is_operationally_reversed": false,
+      "is_drawn_in_session": false
+    },
+    {
+      "card_id": "MA03",
+      "is_operationally_reversed": true,
+      "is_drawn_in_session": false
+    },
+    {
+      "card_id": "SN",
+      "is_operationally_reversed": true,
+      "is_drawn_in_session": false
+    },
+    {
+      "card_id": "C02",
+      "is_operationally_reversed": true,
+      "is_drawn_in_session": false
+    },
+    {
+      "card_id": "S02",
+      "is_operationally_reversed": false,
+      "is_drawn_in_session": false
+    },
+    {
+      "card_id": "MA01",
+      "is_operationally_reversed": false,
+      "is_drawn_in_session": true
+    },
+    {
+      "card_id": "C04",
+      "is_operationally_reversed": true,
+      "is_drawn_in_session": false
+    },
+    {
+      "card_id": "C07",
+      "is_operationally_reversed": false,
+      "is_drawn_in_session": false
+    },
+    {
+      "card_id": "SP",
+      "is_operationally_reversed": true,
+      "is_drawn_in_session": false
+    },
+    {
+      "card_id": "C06",
+      "is_operationally_reversed": true,
+      "is_drawn_in_session": false
+    },
+    {
+      "card_id": "MA16",
+      "is_operationally_reversed": true,
+      "is_drawn_in_session": false
+    },
+    {
+      "card_id": "P09",
+      "is_operationally_reversed": true,
+      "is_drawn_in_session": false
+    },
+    {
+      "card_id": "MA07",
+      "is_operationally_reversed": true,
+      "is_drawn_in_session": false
+    },
+    {
+      "card_id": "S03",
+      "is_operationally_reversed": true,
+      "is_drawn_in_session": false
+    },
+    {
+      "card_id": "P07",
+      "is_operationally_reversed": true,
+      "is_drawn_in_session": true
+    },
+    {
+      "card_id": "MA17",
+      "is_operationally_reversed": false,
+      "is_drawn_in_session": false
+    },
+    {
+      "card_id": "W10",
+      "is_operationally_reversed": false,
+      "is_drawn_in_session": false
+    },
+    {
+      "card_id": "MA05",
+      "is_operationally_reversed": false,
+      "is_drawn_in_session": false
+    },
+    {
+      "card_id": "W06",
+      "is_operationally_reversed": true,
+      "is_drawn_in_session": true
+    },
+    {
+      "card_id": "MA08",
+      "is_operationally_reversed": true,
+      "is_drawn_in_session": false
+    },
+    {
+      "card_id": "W01",
+      "is_operationally_reversed": true,
+      "is_drawn_in_session": false
+    },
+    {
+      "card_id": "MA06",
+      "is_operationally_reversed": true,
+      "is_drawn_in_session": false
+    },
+    {
+      "card_id": "W05",
+      "is_operationally_reversed": true,
+      "is_drawn_in_session": false
+    },
+    {
+      "card_id": "W04",
+      "is_operationally_reversed": false,
+      "is_drawn_in_session": false
+    },
+    {
+      "card_id": "W07",
+      "is_operationally_reversed": false,
+      "is_drawn_in_session": false
+    },
+    {
+      "card_id": "MA20",
+      "is_operationally_reversed": false,
+      "is_drawn_in_session": false
+    },
+    {
+      "card_id": "W03",
+      "is_operationally_reversed": true,
+      "is_drawn_in_session": false
+    },
+    {
+      "card_id": "C05",
+      "is_operationally_reversed": true,
+      "is_drawn_in_session": false
+    },
+    {
+      "card_id": "MA14",
+      "is_operationally_reversed": true,
+      "is_drawn_in_session": false
+    },
+    {
+      "card_id": "MA10",
+      "is_operationally_reversed": false,
+      "is_drawn_in_session": true
+    },
+    {
+      "card_id": "PQ",
+      "is_operationally_reversed": false,
+      "is_drawn_in_session": false
+    },
+    {
+      "card_id": "P06",
+      "is_operationally_reversed": true,
+      "is_drawn_in_session": false
+    },
+    {
+      "card_id": "WQ",
+      "is_operationally_reversed": true,
+      "is_drawn_in_session": false
+    },
+    {
+      "card_id": "P03",
+      "is_operationally_reversed": true,
+      "is_drawn_in_session": true
+    },
+    {
+      "card_id": "C08",
+      "is_operationally_reversed": false,
+      "is_drawn_in_session": false
+    },
+    {
+      "card_id": "S08",
+      "is_operationally_reversed": true,
+      "is_drawn_in_session": false
+    },
+    {
+      "card_id": "C01",
+      "is_operationally_reversed": false,
+      "is_drawn_in_session": false
+    },
+    {
+      "card_id": "MA04",
+      "is_operationally_reversed": false,
+      "is_drawn_in_session": false
+    },
+    {
+      "card_id": "MA02",
+      "is_operationally_reversed": false,
+      "is_drawn_in_session": true
+    },
+    {
+      "card_id": "PN",
+      "is_operationally_reversed": false,
+      "is_drawn_in_session": false
+    },
+    {
+      "card_id": "MA11",
+      "is_operationally_reversed": false,
+      "is_drawn_in_session": false
+    },
+    {
+      "card_id": "MA12",
+      "is_operationally_reversed": true,
+      "is_drawn_in_session": false
+    },
+    {
+      "card_id": "W08",
+      "is_operationally_reversed": false,
+      "is_drawn_in_session": true
+    },
+    {
+      "card_id": "S07",
+      "is_operationally_reversed": true,
+      "is_drawn_in_session": false
+    },
+    {
+      "card_id": "S01",
+      "is_operationally_reversed": true,
+      "is_drawn_in_session": true
+    },
+    {
+      "card_id": "P05",
+      "is_operationally_reversed": true,
+      "is_drawn_in_session": false
+    },
+    {
+      "card_id": "PK",
+      "is_operationally_reversed": true,
+      "is_drawn_in_session": false
+    },
+    {
+      "card_id": "P08",
+      "is_operationally_reversed": false,
+      "is_drawn_in_session": false
+    },
+    {
+      "card_id": "SQ",
+      "is_operationally_reversed": false,
+      "is_drawn_in_session": false
+    },
+    {
+      "card_id": "WK",
+      "is_operationally_reversed": true,
+      "is_drawn_in_session": false
+    },
+    {
+      "card_id": "S04",
+      "is_operationally_reversed": false,
+      "is_drawn_in_session": false
+    },
+    {
+      "card_id": "P02",
+      "is_operationally_reversed": false,
+      "is_drawn_in_session": false
+    },
+    {
+      "card_id": "MA00",
+      "is_operationally_reversed": true,
+      "is_drawn_in_session": false
+    },
+    {
+      "card_id": "CQ",
+      "is_operationally_reversed": true,
+      "is_drawn_in_session": true
+    },
+    {
+      "card_id": "MA19",
+      "is_operationally_reversed": true,
+      "is_drawn_in_session": true
+    },
+    {
+      "card_id": "S09",
+      "is_operationally_reversed": false,
+      "is_drawn_in_session": false
+    },
+    {
+      "card_id": "MA09",
+      "is_operationally_reversed": true,
+      "is_drawn_in_session": false
+    },
+    {
+      "card_id": "P01",
+      "is_operationally_reversed": false,
+      "is_drawn_in_session": false
+    },
+    {
+      "card_id": "S05",
+      "is_operationally_reversed": true,
+      "is_drawn_in_session": false
+    },
+    {
+      "card_id": "MA18",
+      "is_operationally_reversed": true,
+      "is_drawn_in_session": false
+    },
+    {
+      "card_id": "W09",
+      "is_operationally_reversed": true,
+      "is_drawn_in_session": false
+    },
+    {
+      "card_id": "WP",
+      "is_operationally_reversed": false,
+      "is_drawn_in_session": false
+    }
+  ],
+  "next_sequential_draw_index": 3
+}
